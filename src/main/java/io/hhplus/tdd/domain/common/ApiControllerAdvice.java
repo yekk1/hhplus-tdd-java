@@ -1,5 +1,6 @@
-package io.hhplus.tdd;
+package io.hhplus.tdd.domain.common;
 
+import io.hhplus.tdd.domain.common.ErrorResponse;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
